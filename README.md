@@ -1,3 +1,5 @@
++ mysqli gd zip firebird ldap redis memcached locales
+
 # https://github.com/docker-library/php
 
 ## Maintained by: [the Docker Community](https://github.com/docker-library/php)
